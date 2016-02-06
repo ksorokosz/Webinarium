@@ -11,7 +11,7 @@ Projekty
 Tutoriale
 -----------
 - CodeBlocks IDE C++ Linux:
-https://www.dropbox.com/s/neo9d93n0vemzsy/Tutorial%20Linux%20CodeBlocks.avi?dl=0
+[a link](https://www.dropbox.com/s/neo9d93n0vemzsy/Tutorial%20Linux%20CodeBlocks.avi?dl=0)
 https://www.dropbox.com/s/5voogy05xo3idh8/Tutorial%20Linux%20CodeBlocks.ogv?dl=0
 
 - Dev C++, Visual Studio Windows
