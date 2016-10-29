@@ -39,13 +39,12 @@ Projekty
 
 Tutoriale
 -----------
-- [CodeBlocks IDE C++ Linux AVI](https://www.dropbox.com/s/neo9d93n0vemzsy/Tutorial%20Linux%20CodeBlocks.avi?dl=0)
-- [CodeBlocks IDE C++ Linux OGV](https://www.dropbox.com/s/5voogy05xo3idh8/Tutorial%20Linux%20CodeBlocks.ogv?dl=0)
-- [Dev C++, Visual Studio Windows](https://www.dropbox.com/s/pp0r5mlb0yu1a1v/Tutorial%20Windows.avi?dl=0)
+- [CodeBlocks IDE C++ Linux AVI](https://github.com/ksorokosz/Webinarium/blob/master/Preparations/Tutorial%20Linux%20CodeBlocks.avi)
+- [Dev C++, Visual Studio Windows](https://github.com/ksorokosz/Webinarium/blob/master/Preparations/Tutorial%20Windows.avi)
 - [Git. Jak zalozyc konto?](https://www.youtube.com/watch?v=c3wkU2sQINc&feature=youtu.be)
 - [Git. Jak korzystac?](https://www.youtube.com/watch?v=88LT17aRl7Y&feature=youtu.be)
-- [Klient GitHuba. Szczegoly](https://www.dropbox.com/s/cidu19f1xc9ddrl/GitHub%20client%20details.avi?dl=0)
-- [Git. Konsola](https://www.dropbox.com/s/owy6ji37ufkum6f/Git%20console.avi?dl=0)
+- [Klient GitHuba. Szczegoly](https://github.com/ksorokosz/Webinarium/blob/master/Preparations/GitHub%20client%20details.avi)
+- [Git. Konsola](https://github.com/ksorokosz/Webinarium/blob/master/Preparations/Git%20console.avi)
 
 Ksiazki
 -----------
